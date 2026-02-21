@@ -43,8 +43,8 @@
 ### 📊 ANALYTICS & STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rianadhaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianadhaya&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rianadhaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianadhaya&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" align="center" />
 </p>
 
 ---
@@ -55,7 +55,11 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/68CsCvj1yJdzGv8Fprl7k5">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=rianadhaya&theme=tokyonight&show_offline=true" alt="Spotify" width="80%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rianadhaya&repo=rianadhaya&theme=tokyonight&show_owner=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Spotify Playlist" width="400px"/>
+  </a>
+  <br/>
+  <a href="https://open.spotify.com/playlist/68CsCvj1yJdzGv8Fprl7k5">
+    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
