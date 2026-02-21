@@ -1,7 +1,6 @@
-# <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rianadhaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Banner" width="100%"/> </p>
+# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=RIANADHAYA&fontSize=70&animation=fadeIn" width="100%"/> </p>
 
 <div align="center">
-  <h1>🌌 RIANADHAYA</h1>
   <p><b>Network Engineer | Web Developer | Infrastructure Enthusiast</b></p>
   <p><i>Crafting the backbone of modern digital experiences with stability and precision.</i></p>
 </div>
@@ -44,7 +43,7 @@
 ### 📊 ANALYTICS & STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianadhaya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rianadhaya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianadhaya&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" />
 </p>
 
@@ -55,7 +54,9 @@
 > "The right rhythm transforms a task into an experience."
 
 <p align="center">
-  <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify" width="400px"/>
+  <a href="https://open.spotify.com/playlist/68CsCvj1yJdzGv8Fprl7k5">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=rianadhaya&theme=tokyonight&show_offline=true" alt="Spotify" width="80%"/>
+  </a>
 </p>
 
 ---
@@ -64,13 +65,13 @@
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://instagram.com/rianadhaya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/6281515540668"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
